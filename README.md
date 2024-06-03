@@ -28,5 +28,21 @@ Task 3: The expansion of business in a country is not only determined by the loc
 ## Technology
 
 ### Monte Carlo Tree Search with Nested Rollout Policy Adaptation
-![gif](./output/NRPA.gif)
+![gif](./static/NRPA.gif)
 Rosin, C. D. (2011b). Nested rollout policy adaptation for Monte Carlo tree search (pp. 649–654). https://doi.org/10.5591/978-1-57735-516-8/ijcai11-115
+
+## Output
+
+![](./static/img75.jpg)
+![](./static/img76.jpg)
+![](./static/img79.jpg)
+![](./static/img80.jpg)
+![](./static/img104.jpg)
+![](./static/img89.jpg)
+![](./static/img92.jpg)
+![](./static/img95.jpg)
+![](./static/img98.jpg)
+![](./static/img101.jpg)
+
+
+
