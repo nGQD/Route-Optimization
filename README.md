@@ -33,9 +33,7 @@ Rosin, C. D. (2011b). Nested rollout policy adaptation for Monte Carlo tree sear
 
 ## Output
 
-<div style="width:33%; display:inline-block;"><img src="./static/img75.jpg"></div>
-<div style="width:33%; display:inline-block;"><img src="./static/img76.jpg"></div>
-<div style="width:33%; display:inline-block;"><img src="./static/img79.jpg"></div>
+<div style="width:33%; display:inline-block;"><img src="./static/img75.jpg"></div><div style="width:33%; display:inline-block;"><img src="./static/img76.jpg"></div><div style="width:33%; display:inline-block;"><img src="./static/img79.jpg"></div>
 
 ![](./static/img80.jpg)
 ![](./static/img104.jpg)
