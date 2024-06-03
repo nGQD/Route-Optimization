@@ -1,4 +1,4 @@
-# Truck route optimization - MCTS with NRPA
+# Business Expansion Feasibility - Sentiment Analysis & Delivery Route Optimization
 
 ## PRD
 
@@ -25,19 +25,24 @@ Task 3: The expansion of business in a country is not only determined by the loc
 2. Then, write the summary, ranking from the most recommended countries to the least recommended countries to have an expansion.
 
 
-## Technology
+## AI Technology
 
 ### Monte Carlo Tree Search with Nested Rollout Policy Adaptation
 ![gif](./static/NRPA.gif)
 Rosin, C. D. (2011b). Nested rollout policy adaptation for Monte Carlo tree search (pp. 649–654). https://doi.org/10.5591/978-1-57735-516-8/ijcai11-115
 
+
 ## Output
 
+### Sentiment Analysis
 
 ![](./static/img75.jpg) ![](./static/img76.jpg) ![](./static/img79.jpg)
 
+### Terminal Output
 ![](./static/img80.jpg)
 ![](./static/img104.jpg)
+
+### Map Visualization
 ![](./static/img89.jpg)
 ![](./static/img92.jpg)
 ![](./static/img95.jpg)
