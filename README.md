@@ -5,7 +5,7 @@
 *censored* is a coffee chain that has stores located all over the world. The company is constantly looking to run better logistics and expand to open more stores at strategic locations. You have been hired to do analysis and provide insights to management when making business decisions.  
 You have been given a sample dataset containing the location of *censored* stores in Singapore, Great Britain, Canada, the USA and the Philippines.
 
-*censored* is always looking at the possibilities of expanding its business. Thus, they need you to analyze local economic and social situations for maximum profits. 
+Task 1: *censored* is always looking at the possibilities of expanding its business. Thus, they need you to analyze local economic and social situations for maximum profits. 
 1.	Find five (5) articles from online news websites that have published stories about each country’s local economy and social situation.
 2.	Analyze positive, negative, and neutral words to give insights into the local economic and social situation.
 3.	Visualize the word count.
